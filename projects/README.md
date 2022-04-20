@@ -4,17 +4,16 @@
 
 ## Lista dos projetos
 
-- 1
-- 2
-- 3
-- 4
+- [`Tabuada`](Tabuada) - Um simples programa que faz a tabuada até determinado número
+- [`Sorteador-De-Números`](Sorteador-De-Números) - Um programa de tentar adivinhar um número aleatório
+- [`Raiz-Quadrada`](Raiz-Quadrada) - 
+- [`Dados-Chave`](Dados-Chave) - 
 
 <details>
 <summary>Ver mais</summary>
 
-- 5
-- 6
+- [`Descobrir-O-Fatorial`](Descobrir-O-Fatorial) - 
+- [`Hackeador`](Hackeado) - 
 - 7
-- 8
 
 </details>
