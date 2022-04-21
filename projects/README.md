@@ -4,16 +4,15 @@
 
 ## Lista dos projetos
 
-- [`Tabuada`](Tabuada) - Um simples programa que faz a tabuada até determinado número
-- [`Sorteador-De-Números`](Sorteador-De-Números) - Um programa de tentar adivinhar um número aleatório
-- [`Raiz-Quadrada`](Raiz-Quadrada) - 
-- [`Dados-Chave`](Dados-Chave) - 
+- [`Tabuada`](Tabuada/tabuada.py) - Um simples programa que faz a tabuada até determinado número.
+- [`Sorteador-De-Números`](Sorteador-De-Números/Sorteador-De-Número.py) - Um programa de tentar adivinhar um número aleatório.
+- [`Raiz-Quadrada`](Raiz-Quadrada/Raiz-Quadrada.py) - Um programa que descobre a raiz quadrada até determinado número.
+- [`Dados-Chave`](Dados-Chave/Dados-chave.py) - Uma simples demonstração de um banco de dados.
+- [`Descobrir-O-Fatorial`](Descobrir-O-Fatorial/Fatorial.py) - Descobre o fatorial de determinado número.
+- [`Hackeador`](Hackeador/Hackeador.py) - Não, não serve para hackear, é só para fingir ser um hacker com alguns `input's` e `print's`.
 
 <details>
 <summary>Ver mais</summary>
 
-- [`Descobrir-O-Fatorial`](Descobrir-O-Fatorial) - 
-- [`Hackeador`](Hackeado) - 
-- 7
 
 </details>
