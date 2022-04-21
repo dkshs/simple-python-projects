@@ -4,4 +4,4 @@
 
 ## Projetos
 
-Os projetos estão na pasta [`projects`](projects)
+Os projetos estão na pasta [`projects`](projects). Também tem uma [lista](projects#lista-dos-projetos) com algumas informções sobre os códigos
