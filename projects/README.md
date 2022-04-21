@@ -10,6 +10,7 @@
 - [`Dados-Chave`](Dados-Chave/Dados-chave.py) - Uma simples demonstração de um banco de dados.
 - [`Descobrir-O-Fatorial`](Descobrir-O-Fatorial/Fatorial.py) - Descobre o fatorial de determinado número.
 - [`Hackeador`](Hackeador/Hackeador.py) - Não, não serve para hackear, é só para fingir ser um hacker com alguns `input's` e `print's`.
+- [`Criar-QrCode`](Criar-QrCode) - Gera um Qrcode e salva com uma informação espefica ou varias.
 
 <details>
 <summary>Ver mais</summary>
