@@ -1,5 +1,8 @@
 # simple-python-projects
 
+[![licence mit](https://img.shields.io/badge/licence-MIT-56BEB8)](LICENSE)
+![Language](https://img.shields.io/github/languages/top/ShadowsS01/simple-python-projects?color=56BEB8)
+
 > Programas simples e pequenos de Python que podem ser úteis!
 
 ## Sobre
