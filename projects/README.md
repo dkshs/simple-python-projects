@@ -11,9 +11,9 @@
 - [`Descobrir-O-Fatorial`](Descobrir-O-Fatorial/Fatorial.py) - Descobre o fatorial de determinado número.
 - [`Hackeador`](Hackeador/Hackeador.py) - Não, não serve para hackear, é só para fingir ser um hacker com alguns `input's` e `print's`.
 - [`Criar-QrCode`](Criar-QrCode) - Gera um Qrcode e salva com uma informação espefica ou varias.
+- [`Pegar-Cotações`](Pegar-Cotações) - Este código pega cotações em tempo real numa `API`.
 
-<details>
+<!-- <details>
 <summary>Ver mais</summary>
 
-
-</details>
+</details> -->
