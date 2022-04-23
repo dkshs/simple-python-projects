@@ -13,6 +13,7 @@
 - [`Criar-QrCode`](Criar-QrCode) - Gera um Qrcode e salva com uma informação espefica ou varias.
 - [`Pegar-Cotações`](Pegar-Cotações) - Este código pega cotações em tempo real numa `API`.
 - [`Transformar-Python-Em-Executável`](Transformar-Python-Em-Executável) - O código em si não gera o executável, mas, uma dependência que gera depois de um comando.
+- [`Minerar-Bitcoin`](Minerar-Bitcoin) - Código que simula uma mineração de Bitcoin.
 
 <!-- <details>
 <summary>Ver mais</summary>
