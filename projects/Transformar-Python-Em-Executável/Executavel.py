@@ -1,3 +1,9 @@
+# NOTA! Necessário a biblioteca 'pyinstaller' para gerar o executável.
+
+# Esse código eu recomendo criar um ambiente virtual para resultados melhores.
+# ------ Só rodar no terminal `pip install pyinstaller` ----
+# ---- Leia o README.md desta pasta para mais informações ----
+
 import time
 
 time.sleep(1)
