@@ -4,11 +4,13 @@ Este código pega cotações em uma `API`.
 
 ## Dependências necessárias
 
-NOTA! Este projeto necessita de uma dependência.
+NOTA! Este projeto necessita de uma dependência e recomendo usar um ambiente virtual.
 
 - [Requests](https://pypi.org/project/requests/) - Requests é uma biblioteca HTTP simples, mas elegante.
 
-Para instalar é só rodar no terminal:
+Para este código recomendo o uso de um [ambiente virtual](#Ambiente Virtual). No README da pasta `projects` mostra como criar e ativar.
+
+Para instalar a dependência é só rodar no terminal:
 
 ```bash
 pip install requests

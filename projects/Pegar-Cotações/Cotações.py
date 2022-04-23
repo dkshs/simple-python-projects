@@ -1,5 +1,6 @@
-# NOTA!: Necessário a blibioteca 'requests' para fazer a requisição na API.
+# NOTA! Necessário a biblioteca 'requests' para fazer a requisição na API.
 
+# Esse código eu recomendo criar um ambiente virtual para resultados melhores.
 # ------ Só rodar no terminal `pip install requests` ----
 # ---- Leia o README.md desta pasta para mais informações ----
 
