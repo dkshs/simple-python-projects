@@ -17,3 +17,25 @@
 <summary>Ver mais</summary>
 
 </details> -->
+
+## Ambiente Virtual
+
+Recomendo o uso de um ambiente virtual para os códigos que contém dependências, abaixo mostra como criar e ativar no Linux e Windows.
+
+```bash
+# Criar
+  # Linux
+      python3 -m venv venv
+  # Windows
+      python -m venv venv
+    
+# Ativar
+  # Linux
+      source venv/bin/activate
+  # Windows
+      venv/Scripts/Activate
+
+# Caso algum comando retorne um erro de permissão execute o código e tente novamente:
+
+ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+```
