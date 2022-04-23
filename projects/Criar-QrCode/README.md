@@ -4,12 +4,14 @@ Este simples código gera um Qrcode com determinada informação.
 
 ## Dependências necessárias
 
-NOTA! Este projeto necessita de duas dependências.
+NOTA! Este projeto necessita de duas dependências e recomendo usar um ambiente virtual.
 
 - [qrcode](https://pypi.org/project/qrcode/) - Gerador de QrCode.
 - [pillow](https://pypi.org/project/Pillow/) - Processador de imagens.
 
-Para instalar é só rodar no terminal:
+Para este código recomendo o uso de um [ambiente virtual](#Ambiente Virtual). No README da pasta `projects` mostra como criar e ativar.
+
+Para instalar a dependência é só rodar no terminal:
 
 ```bash
 pip install pillow qrcode

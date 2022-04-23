@@ -1,6 +1,7 @@
-# NOTA!: Necessário a blibioteca 'qrcode' para criar o Qrcode e 
+# NOTA! Necessário a biblioteca 'qrcode' para criar o Qrcode e 
 # 'pillow' para gerar a imagem
 
+# Esse código eu recomendo criar um ambiente virtual para resultados melhores.
 # ------ Só rodar no terminal `pip install pillow qrcode` ----
 # ---- Leia o README.md desta pasta para mais informações ----
 
