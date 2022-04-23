@@ -12,6 +12,7 @@
 - [`Hackeador`](Hackeador/Hackeador.py) - Não, não serve para hackear, é só para fingir ser um hacker com alguns `inputs` e `prints`.
 - [`Criar-QrCode`](Criar-QrCode) - Gera um Qrcode e salva com uma informação espefica ou varias.
 - [`Pegar-Cotações`](Pegar-Cotações) - Este código pega cotações em tempo real numa `API`.
+- [`Transformar-Python-Em-Executável`](Transformar-Python-Em-Executável) - O código em si não gera o executável, mas, uma dependência que gera depois de um comando.
 
 <!-- <details>
 <summary>Ver mais</summary>
