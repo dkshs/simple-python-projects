@@ -20,7 +20,7 @@ Agora a única biblioteca necessária a baixar caso for utilizar o código [`Cad
 
 Para o código [`Cadastro_clientes.py`](Cadastro_clientes.py) recomendo o uso de um [ambiente virtual](../#ambiente-virtual). No [README](../#ambiente-virtual) da pasta [`projects`](../) mostra como criar e ativar.
 
-> Caso não queira instalar o pandas ou usar um ambiente virtual é só remover a função `exportar_clientes` e o ultimo botão do [`Cadastro_clientes.py`](Cadastro_clientes.py).
+> Caso não queira instalar o pandas ou usar um ambiente virtual é só remover a função [`exportar_clientes`](Cadastro_clientes.py#L88) e o ultimo [botão](Cadastro_clientes.py#L140) do [`Cadastro_clientes.py`](Cadastro_clientes.py).
 
 Para instalar a dependência é só rodar no terminal:
 
@@ -30,5 +30,5 @@ pip install pandas
 
 ## 🚀 Rodar o Código
 
-Ultima configuração se você for rodar o código [`Cadastro_clientes.py`](Cadastro_clientes.py). É necessário ter o banco de dados SQLite, no começo do código, após as importações você verá o comentário 'Criar banco de dados', descomente eles e rode o código para gerar o DB, após gerado pode comentar essas linhas para não ficar gerando um DB toda hora.
+Ultima configuração se você for rodar o código [`Cadastro_clientes.py`](Cadastro_clientes.py). É necessário ter o banco de dados SQLite, no começo do código, após as importações você verá o comentário ['Criar banco de dados'](Cadastro_clientes.py#L13), descomente eles e rode o código para gerar o DB, após gerado pode comentar essas linhas para não ficar gerando um DB toda hora.
 Pronto agora só rodar código! 🚀
