@@ -13,6 +13,6 @@ Abaixo tem as bibliotecas `smtplib` e `email.message` que são utilizadas. Elas 
 
 ## Enviar o Email
 
-Para enviar o email você precisa colocar as informações necessárias sendo o Assunto do Email, a pessoa ou as pessoas que irão receber o email, a conta que irá enviar o email e a senha, também pode modificar o corpo do email na variável `corpo_email`, então só rodar o código.
+Para enviar o email você precisa colocar as informações necessárias sendo o [Assunto do Email](envia-email.py#L13), a [pessoa ou as pessoas](envia-email.py#L15) que irão receber o email, a [conta](envia-email.py#L14) que irá enviar o email e a [senha](envia-email.py#L16), também pode modificar o corpo do email na variável [`corpo_email`](envia-email.py#L6), então só rodar o código.
 
 NOTA! Esse código envia emails somente pelo [Gmail](https://www.google.com/intl/pt/gmail/about/).
