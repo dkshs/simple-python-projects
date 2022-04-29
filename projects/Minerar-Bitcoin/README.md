@@ -11,7 +11,7 @@ Abaixo tem as bibliotecas `hashlib` e `time` que são utilizadas. Elas são bibl
 - [haslib](https://docs.python.org/3/library/hashlib.html) - Este módulo implementa uma interface comum para muitos algoritmos de hash seguro e resumo de mensagens diferentes.
 - [time](https://docs.python.org/3/library/time.html?highlight=time#module-time) - Este módulo fornece várias funções relacionadas ao tempo.
 
-No biblioteca [`haslib`](https://docs.python.org/3/library/hashlib.html) utilizo somente o [`sha256`](https://docs.python.org/3/library/hashlib.html?highlight=sha256) por isso uso `from hashlib import sha256`.
+No biblioteca [`haslib`](https://docs.python.org/3/library/hashlib.html) utilizo somente o [`sha256`](https://docs.python.org/3/library/hashlib.html?highlight=sha256) por isso utilizo o [`from hashlib import sha256`](Minerar.py#L1).
 
 ## Gerar o resultado
 
