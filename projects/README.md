@@ -15,6 +15,7 @@
 - [`Transformar-Python-Em-Executável`](Transformar-Python-Em-Executável) - O código em si não gera o executável, mas, uma dependência que gera depois de um comando.
 - [`Minerar-Bitcoin`](Minerar-Bitcoin) - Código que simula uma mineração de Bitcoin.
 - [`Enviar-Email`](Enviar-Email) - Código que envia email por Gmail.
+- [`Criar-Interface-Gráfica`](Criar-Interface-Gráfica) - Códigos que geram interfaces gráficas.
 
 <!-- <details>
 <summary>Ver mais</summary>
