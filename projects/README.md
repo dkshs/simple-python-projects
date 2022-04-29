@@ -14,6 +14,7 @@
 - [`Pegar-Cotações`](Pegar-Cotações) - Este código pega cotações em tempo real numa `API`.
 - [`Transformar-Python-Em-Executável`](Transformar-Python-Em-Executável) - O código em si não gera o executável, mas, uma dependência que gera depois de um comando.
 - [`Minerar-Bitcoin`](Minerar-Bitcoin) - Código que simula uma mineração de Bitcoin.
+- [`Enviar-Email`](Enviar-Email) - Código que envia email por Gmail.
 
 <!-- <details>
 <summary>Ver mais</summary>
