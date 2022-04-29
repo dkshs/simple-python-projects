@@ -12,8 +12,8 @@ def enviar_email():
     msg = email.message.Message()
     msg['Subject'] = 'Assunto do Email'  # Este é o Assunto do Email
     msg['From'] = 'email@email.com'  # Conta que irá enviar o Email
-    msg['To'] = 'nicolas.contiero198@gmail.com' # Pessoa ou pessoas que irá receber o Email
-    password = 'email@email.com'  # Senha da conta do "FROM"
+    msg['To'] = 'email@email.com' # Pessoa ou pessoas que irá receber o Email
+    password = 'senha123'  # Senha da conta do "FROM"
     msg.set_type('text/html')
     msg.set_payload(corpo_email)
 
