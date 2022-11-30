@@ -1,4 +1,4 @@
-# NOTA! Necessário a biblioteca 'qrcode' para criar o Qrcode e 
+# NOTA! Necessário a biblioteca 'qrcode' para criar o QrCode e
 # 'pillow' para gerar a imagem
 
 # Esse código eu recomendo criar um ambiente virtual para resultados melhores.
@@ -15,9 +15,7 @@ imagem_qrcode.save("qrcode_phyton.png")
 
 # ------ Forma de criar vários QrCodes de uma vez usando `For` -----
 
-codigos_links={
-    "Youtube":"youtube.com",
-    "Texto":"TextoTeste"}
+codigos_links = {"Youtube": "youtube.com", "Texto": "TextoTeste"}
 
 for site in codigos_links:
     link = codigos_links[site]

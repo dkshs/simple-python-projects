@@ -3,20 +3,20 @@ import random
 maxn = 10
 tentativas = 3
 n = random.randint(1, maxn)
-print('Bem vindo ao jogo de advinhar o número!')
-print('Escolha um número de 1 até %d' % maxn)
-print(f'Você tem {tentativas} tentativas!')
+print("Bem vindo ao jogo de advinhar o número!")
+print("Escolha um número de 1 até %d" % maxn)
+print(f"Você tem {tentativas} tentativas!")
 guess = None
 while guess != n and tentativas != 0:
-    guess = int(input('Sua tentativa: '))
+    guess = int(input("Sua tentativa: "))
     if guess > n:
-        print('Muito alto')
+        print("Muito alto")
     if guess < n:
-        print('Muito baixo')
+        print("Muito baixo")
     tentativas -= 1
-    print(f'Você tem {tentativas} tentativas')
+    print(f"Você tem {tentativas} tentativas")
 
 if tentativas == 0 and guess != n:
-    print('Você perdeu, suas tentivas acabaram!')
+    print("Você perdeu, suas tentivas acabaram!")
 else:
-    print('Boa, você venceu!')
+    print("Boa, você venceu!")

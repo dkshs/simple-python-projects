@@ -8,7 +8,7 @@ NOTA! Este projeto necessita de uma dependência e recomendo usar um ambiente vi
 
 - [PyInstaller](https://pyinstaller.org/en/stable/) - O PyInstaller agrupa um aplicativo Python e todas as suas dependências em um único pacote, gerando o executável.
 
-Para este código recomendo o uso de um [ambiente virtual](../#ambiente-virtual). No [README](../#ambiente-virtual) da pasta [`projects`](../) mostra como criar e ativar.
+Para este código recomendo o uso de um [ambiente virtual](../README.md#ambiente-virtual). No [README](../README.md) da pasta [`projects`](../) mostra como criar e ativar.
 
 Para instalar a dependência é só rodar no terminal:
 
@@ -25,9 +25,9 @@ pyinstaller --onefile ./Executável.py
 ```
 
 - O comando `pyinstaller` chama a biblioteca.
-- O [`--onefile`](https://pyinstaller.org/en/stable/usage.html#cmdoption-F) junta todas as dependências e o código Python em um unico arquivo executável.
+- O [`--onefile`](https://pyinstaller.org/en/stable/usage.html#cmdoption-F) junta todas as dependências e o código Python em um único arquivo executável.
 - No [`./Executável.py`](Executavel.py) você irá colocar o nome do seu programa Python.
 
-Após o comando terá duas pastas e um arquivo criado, o executável vai estar na pasta `dist`.
+Após o comando, terá duas pastas e um arquivo criado, o executável vai estar na pasta `dist`.
 
 Para mais informações encontre na documentação do [PyInstaller](https://pyinstaller.org/en/stable/usage.html#using-pyinstaller).

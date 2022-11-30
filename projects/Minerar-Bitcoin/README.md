@@ -15,4 +15,4 @@ No biblioteca [`haslib`](https://docs.python.org/3/library/hashlib.html) utilizo
 
 ## Gerar o resultado
 
-Entre no código [`Minerar.py`](Minerar.py) e no final terá um [`if`](Minerar.py#L19) com os parâmetros que irá ser enviado e recebido pela função [`minerar`](Minerar.py#L9), tente trocar eles e rodar o código.
+Entre no código [`Minerar.py`](Minerar.py) e no final terá um [`if`](Minerar.py#L21) com os parâmetros que irá ser enviado e recebido pela função [`minerar`](Minerar.py#L10), tente trocar eles e rodar o código.

@@ -18,9 +18,9 @@ Agora a única biblioteca necessária a baixar caso for utilizar o código [`Cad
 
 - [pandas](https://pandas.pydata.org/) - Ferramenta de análise e manipulação de dados de código aberto rápida, poderosa, flexível e fácil de usar. Utilizo no código [`Cadastro_clientes.py`](Cadastro_clientes.py) para conseguir exportar as informações do `db` para um arquivo excel.
 
-Para o código [`Cadastro_clientes.py`](Cadastro_clientes.py) recomendo o uso de um [ambiente virtual](../#ambiente-virtual). No [README](../#ambiente-virtual) da pasta [`projects`](../) mostra como criar e ativar.
+Para o código [`Cadastro_clientes.py`](Cadastro_clientes.py) recomendo o uso de um [ambiente virtual](../README.md#ambiente-virtual). No [README](../README.md) da pasta [`projects`](../) mostra como criar e ativar.
 
-> Caso não queira instalar o pandas ou usar um ambiente virtual é só remover a função [`exportar_clientes`](Cadastro_clientes.py#L88) e o ultimo [botão](Cadastro_clientes.py#L140) do [`Cadastro_clientes.py`](Cadastro_clientes.py).
+> Caso não queira instalar o pandas ou usar um ambiente virtual é só remover a função [`exportar_clientes`](Cadastro_clientes.py#L95) e o ultimo [botão](Cadastro_clientes.py#L150) do [`Cadastro_clientes.py`](Cadastro_clientes.py).
 
 Para instalar a dependência é só rodar no terminal:
 
