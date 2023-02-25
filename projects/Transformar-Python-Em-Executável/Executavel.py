@@ -15,9 +15,9 @@ while y == "Y":
     x = input("Digite seu nome: ")
     print(f"Olá {x}")
     y = input("Again? Y/n: ")
-    if y == "" or y == "Y" or y == "y":
+    if y in ["", "Y", "y"]:
         y = "Y"
-    elif y == "n" or y == "N":
+    elif y in ["n", "N"]:
         time.sleep(0.5)
         print("Tchau!")
         time.sleep(1)

@@ -3,7 +3,7 @@ import email.message
 
 # --- Enviar email ---
 def enviar_email():
-    corpo_email = f"""
+    corpo_email = """
     <h1>Hello World!</h1>
     <p>Aqui posso colocar código HTML</p>
     <button>Clica aqui</button>

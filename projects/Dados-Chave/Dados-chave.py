@@ -21,12 +21,11 @@ while True:
         k = input("Coloque a key: ")
         print("Procurando...")
         time.sleep(1)
-        if not k in db:
+        if k not in db:
             print("Nenhuma key encontrada")
-            time.sleep(1)
         else:
-            print("Seu dado é: %s" % db[k])
-            time.sleep(1)
+            print(f"Seu dado é: {db[k]}")
+        time.sleep(1)
     elif action == "L":
         print("Carregando dados...")
         time.sleep(1)

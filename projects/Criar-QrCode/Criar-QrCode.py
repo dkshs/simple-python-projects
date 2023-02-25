@@ -17,7 +17,6 @@ imagem_qrcode.save("qrcode_phyton.png")
 
 codigos_links = {"Youtube": "youtube.com", "Texto": "TextoTeste"}
 
-for site in codigos_links:
-    link = codigos_links[site]
+for site, link in codigos_links.items():
     imagem_qrcode = qrcode.make(link)
     imagem_qrcode.save(f"QrCode_{site}.png")

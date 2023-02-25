@@ -63,11 +63,8 @@ def cadastrar_cliente():
         or cliente_telefone == ""
     ):
         label_error.config(text="Os campos não podem ser vazios", fg="red")
-        label_error.grid(row=4, column=0, columnspan=2, padx=10, pady=10, ipadx=80)
-    # -----> Verificando se já tem email cadastrado:
     elif usrEmail_Search:
         label_error.config(text="Email já cadastrado", fg="red")
-        label_error.grid(row=4, column=0, columnspan=2, padx=10, pady=10, ipadx=80)
     else:
         # -----> Inserindo os dados depois de passar pelas verificações:
         c.execute(
@@ -89,7 +86,8 @@ def cadastrar_cliente():
         entry_telefone.delete(0, "end")
 
         label_error.config(text="Cliente salvo", fg="green")
-        label_error.grid(row=4, column=0, columnspan=2, padx=10, pady=10, ipadx=80)
+
+    label_error.grid(row=4, column=0, columnspan=2, padx=10, pady=10, ipadx=80)
 
 
 def exporta_clientes():

@@ -25,7 +25,7 @@ def inserir_codigo():
 
     # ----> Criando um código tipo Id:
     codigo = len(lista_codigos) + 1
-    codigo_str = "COD-{}".format(codigo)
+    codigo_str = f"COD-{codigo}"
 
     # ----> Inserindo as informações em forma de tupla na lista_codigos:
     lista_codigos.append((codigo_str, descricao, tipo, quant, data_criacao))

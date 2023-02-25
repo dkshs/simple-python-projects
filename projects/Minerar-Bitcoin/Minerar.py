@@ -21,7 +21,7 @@ def minerar(num_bloco, transacoes, hash_anterior, qtde_zeros):
 if __name__ == "__main__":
     num_bloco = 23  # Número do Bloco para minerar
     transacoes = """
-    Transacoes feita no bloco"""  # As transações feita no bloco
+    Transações feita no bloco"""  # As transações feita no bloco
     qtde_zeros = 3  # Quantidade de zeros
     hash_anterior = "007deb53d1c463"  # A Hash encontrada do bloco anterior
     inicio = time.time()  # Iniciando um contador
